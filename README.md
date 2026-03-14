@@ -1,4 +1,6 @@
 ## Hi! I am mherah, a computer science student who is interested in all things related to Python and Data Science.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
 <!--
 **mherahh/mherahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
