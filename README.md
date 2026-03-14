@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am mherah, a computer science student who is passionate about data related projects. I have a strong grip in data analytical skills where I use SQL, Power BI and Excel. Furthermore, I leverage Python—specifically Pandas for complex data manipulation and Matplotlib for custom visualizations, to solve problems that require more than just a spreadsheet.
 
 <!--
 **mherahh/mherahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
