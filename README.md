@@ -1,6 +1,9 @@
 ## Hi! I am mherah, a computer science student who is interested in all things related to Python and Data Science.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Programming: Python(Pandas, Matplotlib, plotly), SQL, DAX,  C++
+Databases: MySQL, SQLite, CSV-based storage
+Tools: Power BI, MS Excel(Pivot Table, VLOOKUP, Conditional Formatting), Git, GitHub, VS Code, Dev-C++
+
 <!--
 **mherahh/mherahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
