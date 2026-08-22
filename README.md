@@ -1,6 +1,6 @@
 ## Hi! I am mherah, a computer science student who is interested in all things related to Python and Data Science.
 
-### 💻 Programming: Python(Pandas, Matplotlib, plotly), SQL, DAX,  C++
+### 💻 Programming: Python(Pandas, Matplotlib, Seaborn, Scikit-learn, langchain), SQL, DAX,  C++
 ### 📁 Databases: MySQL, SQLite, CSV-based storage
 ### 🛠️ Tools: Power BI, MS Excel(Pivot Table, VLOOKUP, Conditional Formatting), Git, GitHub, VS Code, Dev-C++
 
